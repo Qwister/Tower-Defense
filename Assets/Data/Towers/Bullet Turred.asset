@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2c7265f4c80ef4ea2fb1ad81869f37, type: 3}
+  m_Name: Bullet Turred
+  m_EditorClassIdentifier: 
+  turredPrefab: {fileID: 9036080020607652159, guid: d78b04565444cfc48b65def5e12d081b,
+    type: 3}
+  turredBullet: {fileID: 943437730793059904, guid: 171e427eecb596f40a57b3cb5bb772f5,
+    type: 3}
+  turredCost: 70
+  turredDamage: 50
+  attackSpeed: 3
+  turredRange: 8
+  turnSpeed: 15
+  enemyTag: Enemy

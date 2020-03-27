@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2c7265f4c80ef4ea2fb1ad81869f37, type: 3}
+  m_Name: Super turred
+  m_EditorClassIdentifier: 
+  turredPrefab: {fileID: 5973585270290244805, guid: 8765e0b30ef11ab4f86eed32aca26a6d,
+    type: 3}
+  turredBullet: {fileID: 943437730793059904, guid: 171e427eecb596f40a57b3cb5bb772f5,
+    type: 3}
+  turredCost: 150
+  turredDamage: 100
+  attackSpeed: 0.5
+  turredRange: 12
+  turnSpeed: 10
+  enemyTag: Enemy
